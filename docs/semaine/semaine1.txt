@@ -1,1 +1,5 @@
+Algo pour découper les séquences de nucléotides en k-mers (essayer plusieurs k différents)
+Découper les différents gênes de la base de donnée, et les mettre dans un dictionnaire (clé = découpage, value = nom du gêne)
 
+Essayer de découper des séquences de nucléotides inconnues, et chercher des correspondances avec les gênes prédécoupés dans le dictionnaire.
+Tester l'algo sur les simulations, et faire : matrice de confusion + calcul de précision + etc...
