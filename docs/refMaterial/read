@@ -9,3 +9,5 @@ Quelques references à lire
 https://fr.wikipedia.org/wiki/K-mer
 https://sourmash.readthedocs.io/en/latest/kmers-and-minhash.html
 https://people.eecs.berkeley.edu/~jordan/kernels/0521813972c11_p344-396.pdf
+
+Librairie python pour les k-mer : https://github.com/Superzchen/iFeature
