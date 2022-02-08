@@ -4,5 +4,6 @@
 
 * lire le papier DSab
 * instaler et tester le code DSab
-* Analiser les 5 fichiers Simple data/datasets/simulations/
-* Mesurer la performance (% Vrais positifs et %Faux positifs)
+* Analiser les 5 fichiers simple_plus_indels_ * Mut_out.fasta  deposé à data/datasets/simulations/
+* Mesurer la performance Total - tous les trois genes - (% Vrais positifs et %Faux positifs)
+* Mesurer la performance pour chaque gene separement (% Vrais positifs et %Faux positifs)
