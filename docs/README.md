@@ -1,5 +1,10 @@
 # Week planning
 
+**week 2: 14 Fev 2022**
+* [ ] Reperer le code dans DSab qui split la sequence en trois parties
+* [ ] indexer les genes de references avec la strategie de oligok-mers
+* [ ] devolopper une premier version pour match les genes de references et les sequences query
+
 **week 2: 07 Fev 2022**
 
 * [x] Lire le papier DSab
