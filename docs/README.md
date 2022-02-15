@@ -5,6 +5,9 @@
 * [ ] indexer les genes de references (data/database/) avec la strategie de oligok-mers
 * [ ] devolopper une premier version pour match les genes de references et les sequences query
 
+References
+* https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-169
+
 **week 2: 07 Fev 2022**
 
 * [x] Lire le papier DSab
