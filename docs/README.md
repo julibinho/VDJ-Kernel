@@ -2,7 +2,7 @@
 
 **week 2: 14 Fev 2022**
 * [x] Reperer le code dans DSab qui split la sequence en trois parties
-* [ ] indexer les genes de references (data/database/) avec la strategie de gapped k-mers
+* [x] indexer les genes de references (data/database/) avec la strategie de gapped k-mers
 * [ ] devolopper une premiere version pour match les genes de references et les sequences query
 
 References
