@@ -1,5 +1,9 @@
 # Week planning
 
+**week 2: 21 Fev au 08 mars 2022**
+* [ ] devolopper une premiere version pour match les genes de references et les sequences query
+* [ ] optimise le code pour avoir plus rapide
+
 **week 2: 14 Fev 2022**
 * [x] Reperer le code dans DSab qui split la sequence en trois parties
 * [x] indexer les genes de references (data/database/) avec la strategie de gapped k-mers
