@@ -1,7 +1,7 @@
 # Week planning
 
 **week 2: 21 Fev au 08 mars 2022**
-* [ ] devolopper une premiere version pour match les genes de references et les sequences query
+* [ ] développer une première version pour match les gènes de références et les séquences query
 * [ ] optimise le code pour avoir plus rapide
 
 **week 2: 14 Fev 2022**
